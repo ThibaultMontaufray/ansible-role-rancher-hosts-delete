@@ -1,0 +1,18 @@
+galaxy_info:
+  author: Thibault MONTAUFRAY
+  description: Delete rancher host from existing rancher environment
+  company: servOdroid
+
+  license: MIT
+
+  min_ansible_version: 2.2
+
+  platforms:
+    - name: Debian
+      versions:
+        - all
+
+  galaxy_tags:
+    - rancher
+
+  dependencies: []
